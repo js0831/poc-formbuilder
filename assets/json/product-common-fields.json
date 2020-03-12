@@ -1,0 +1,213 @@
+[
+    {
+      "fieldGroupClassName": "form-row",
+      "fieldGroup": [
+        {
+          "type": "formly-group",
+          "className": "form-group col-md-12",
+          "id": "formly_4_blank__0",
+          "templateOptions": {
+            "label": "Product Information",
+            "required": null,
+            "minLength": null,
+            "maxLength": null,
+            "max": null,
+            "min": null,
+            "type": "text",
+            "placeholder": "",
+            "focus": false,
+            "disabled": false
+          },
+          "wrappers": [
+            "form-group"
+          ],
+          "key": "information",
+          "fieldGroup": [
+            {
+              "fieldGroupClassName": "form-row",
+              "fieldGroup": [
+                {
+                  "type": "select",
+                  "className": "form-group col-md-4",
+                  "id": "formly_49_blank__0",
+                  "templateOptions": {
+                    "label": "Product Type",
+                    "required": true,
+                    "minLength": null,
+                    "maxLength": null,
+                    "max": null,
+                    "min": null,
+                    "options": [
+                      
+                    ],
+                    "placeholder": "",
+                    "focus": false,
+                    "disabled": false
+                  },
+                  "wrappers": [
+                    
+                  ],
+                  "key": "productType",
+                  "defaultValue": "",
+                  "hooks": {
+                    
+                  },
+                  "modelOptions": {
+                    
+                  }
+                },
+                {
+                  "type": "input",
+                  "className": "form-group col-md-4",
+                  "id": "formly_55_blank__0",
+                  "templateOptions": {
+                    "label": "Code",
+                    "required": true,
+                    "minLength": null,
+                    "maxLength": null,
+                    "max": null,
+                    "min": null,
+                    "type": "text",
+                    "placeholder": "",
+                    "focus": false,
+                    "disabled": false
+                  },
+                  "wrappers": [
+                    
+                  ],
+                  "key": "code",
+                  "defaultValue": "",
+                  "hooks": {
+                    
+                  },
+                  "modelOptions": {
+                    
+                  }
+                },
+                {
+                  "type": "input",
+                  "className": "form-group col-md-4",
+                  "id": "formly_55_blank__1",
+                  "templateOptions": {
+                    "label": "Name",
+                    "required": true,
+                    "minLength": null,
+                    "maxLength": null,
+                    "max": null,
+                    "min": null,
+                    "type": "text",
+                    "placeholder": "",
+                    "focus": false,
+                    "disabled": false
+                  },
+                  "wrappers": [
+                    
+                  ],
+                  "key": "name",
+                  "defaultValue": "",
+                  "hooks": {
+                    
+                  },
+                  "modelOptions": {
+                    
+                  }
+                }
+              ],
+              "id": "formly_52___0",
+              "type": "formly-group",
+              "wrappers": [
+                
+              ],
+              "hooks": {
+                
+              },
+              "modelOptions": {
+                
+              },
+              "templateOptions": {
+                
+              },
+              "defaultValue": {
+                
+              }
+            },
+            {
+              "fieldGroupClassName": "form-row",
+              "fieldGroup": [
+                {
+                  "type": "textarea",
+                  "className": "form-group col-md-12",
+                  "id": "formly_65_blank__0",
+                  "templateOptions": {
+                    "label": "Description",
+                    "required": null,
+                    "minLength": null,
+                    "maxLength": null,
+                    "max": null,
+                    "min": null,
+                    "placeholder": "",
+                    "focus": false,
+                    "disabled": false
+                  },
+                  "wrappers": [
+                    
+                  ],
+                  "key": "description",
+                  "defaultValue": "", 
+                  "hooks": {
+                    
+                  },
+                  "modelOptions": {
+                    
+                  }
+                }
+              ],
+              "id": "formly_62___1",
+              "type": "formly-group",
+              "wrappers": [
+                
+              ],
+              "hooks": {
+                
+              },
+              "modelOptions": {
+                
+              },
+              "templateOptions": {
+                
+              },
+              "defaultValue": {
+                
+              }
+            }
+          ],
+          "hooks": {
+            
+          },
+          "modelOptions": {
+            
+          },
+          "defaultValue": {
+            
+          }
+        }
+      ],
+      "id": "formly_1___0",
+      "type": "formly-group",
+      "wrappers": [
+        
+      ],
+      "hooks": {
+        
+      },
+      "modelOptions": {
+        
+      },
+      "templateOptions": {
+        
+      },
+      "defaultValue": {
+        
+      }
+    }
+  ]
