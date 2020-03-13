@@ -66,6 +66,8 @@ THE SOFTWARE.
 
 jk-form-builder
 
+jk-wait
+
 rxjs
 Apache-2.0
                                Apache License
